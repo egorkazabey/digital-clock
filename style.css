@@ -1,0 +1,17 @@
+body {
+	background: rgb(153, 222, 124);
+}
+.clock {
+	background: white;
+	width: 400px;
+	height: 150px;
+	align-items: center;
+	font-size: 100px;
+	justify-content: center;
+	display: flex;
+	margin: 0 auto;
+}
+
+.center {
+	width: 2000px;
+}
